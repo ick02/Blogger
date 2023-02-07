@@ -1,4 +1,4 @@
-# Bloggo
+# Blogger
 
 An app to write your blogs(user authentication implemented with jwt)
 
