@@ -9,4 +9,3 @@ Tech Stack being used:
 4. EJS
 5. JWT
 
-_project under construction_
